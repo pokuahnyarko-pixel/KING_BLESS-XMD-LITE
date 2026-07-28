@@ -1,8 +1,7 @@
 # KING_BLESS-XMD-LITE
 
 <p align="center">
-<img align="center" height="auto" src="https://i.imgur.com/1DkLGVk.jpeg">
-</p>
+<img align="center" height="auto" src="<img width="418" src="https://github.com/user-attachments/assets/1703fc37-cb1f-4866-b2ec-6c2ac93f0eba"></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=K+I+N+G+S+L+E+Y+X+M+D+T+E+C+H+▇)](https://git.io/typing-svg)
 <br>
